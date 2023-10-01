@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "name": "Xayah",
+        "puissance": 1000,
+        "attacks" : [
+            {
+                "name": "BladeCaller",
+                "damage": 15,
+                "pourcentage": 100
+            },
+            {
+                "name": "Featherstorm",
+                "damage": 90,
+                "pourcentage": 25
+            }
+        ],
+        "type": "teamsBlue"
+    },
+    {
+        "id": 2,
+        "name": "Akali",
+        "puissance": 94000,
+        "attacks" : [
+            {
+                "name": "Five Point Strike",
+                "damage": 15,
+                "pourcentage": 100
+            },
+            {
+                "name": "Shuriken Flip",
+                "damage": 80,
+                "pourcentage": 55
+            }
+        ],
+        "type": "teamsBlue"
+    },
+    {
+        "id": 3,
+        "name": "Kai'Sa",
+        "puissance": 3000,
+        "attacks" : [
+            {
+                "name": "Icathian Rain",
+                "damage": 25,
+                "pourcentage": 100
+            },
+            {
+                "name": "Void Seeker",
+                "damage": 70,
+                "pourcentage": 75
+            }
+        ],
+        "type": "teamsBlue"
+    },
+    {
+        "id": 4,
+        "name": "Katarina",
+        "puissance": 500,
+        "attacks" : [
+            {
+                "name": "Death Lotus",
+                "damage": 70,
+                "pourcentage": 60
+            }
+        ],
+        "type": "teamsBlue"
+    },
+    {
+        "id": 5,
+        "name": "Gwen",
+        "puissance": 10000,
+        "attacks" : [
+            {
+                "name": "Snip Snip!",
+                "damage": 15,
+                "pourcentage": 60
+            },
+            {
+                "name": "Skip 'n Slash",
+                "damage": 60,
+                "pourcentage": 70
+            }
+        ],
+        "type": "teamsRed"
+    },
+    {
+        "id": 6,
+        "name": "Viego",
+        "puissance": 5000,
+        "attacks" : [
+            {
+                "name": "Blade of the Ruined King",
+                "damage": 35,
+                "pourcentage": 100
+            }
+        ],
+        "type": "teamsRed"
+    },
+    {
+        "id": 7,
+        "name": "Shaco",
+        "puissance": 9500,
+        "attacks": [
+            {
+                "name": "Two-Shiv Poison",
+                "damage": 45,
+                "pourcentage": 100
+            },
+            {
+                "name": "Hallucinate",
+                "damage": 5,
+                "pourcentage": 40
+            }
+        ],
+        "type": "teamsRed"
+    },
+    {
+        "id": 8,
+        "name": "Syndra",
+        "puissance": 3000,
+        "attacks": [
+            {
+                "name": "Dark Sphere",
+                "damage": 30,
+                "pourcentage": 65
+            }
+        ],
+        "type": "teamsRed"
+    }
+]
